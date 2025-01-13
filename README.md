@@ -1,15 +1,15 @@
 Hi 👋 My name is Francisco Santamaria
 =====================================
 
-Desarrollador Front-End
+Desarrollador Full stack
 -----------------------
 
-I am Front-End Developer
+I am FFull stack Developer
 
 * 🌍  I'm based in San Salvador
 * ✉️  You can contact me at [fran170201@gmail.com](mailto:fran170201@gmail.com)
-* 🧠  I'm learning PHP
-* 🤝  I'm open to collaborating on UI
+* 🧠  I have worked with Node js using Nest js
+* 🤝  I have worked with React and Vue js
 
 <a href="https://www.twitter.com/Fran170201" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Fran170201?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
