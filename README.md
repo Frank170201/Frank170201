@@ -4,7 +4,7 @@ Hi 👋 My name is Francisco Santamaria
 Desarrollador Full stack
 -----------------------
 
-I am FFull stack Developer
+I am Full stack Developer
 
 * 🌍  I'm based in San Salvador
 * ✉️  You can contact me at [fran170201@gmail.com](mailto:fran170201@gmail.com)
