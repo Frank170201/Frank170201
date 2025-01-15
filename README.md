@@ -12,9 +12,9 @@ I am Full stack Developer
 * 🤝  I have worked with React and Vue js
 
 ### Lo que hago
-* Desarrollo Backend con Node, tambien he desarrollado proyectos con Php utilzando Laravel.
-* Crear vistas para Frontend utilizando Vue js tambien he realizado proyectos con React.
-* Realizar pruebas a sistemas antes de salir a produccion con pruebas de calidad de software.
+* ⚙️  Desarrollo Backend con Node, tambien he desarrollado proyectos con Php utilzando Laravel.
+* 💻  Crear vistas para Frontend utilizando Vue js tambien he realizado proyectos con React.
+* 🧪  Realizar pruebas a sistemas antes de salir a produccion con pruebas de calidad de software.
 
 ### Skills
 
