@@ -33,9 +33,6 @@ I am Full stack Developer
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 </p>
 
-<a href="https://www.twitter.com/Fran170201" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Fran170201?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 
 ### Socials
